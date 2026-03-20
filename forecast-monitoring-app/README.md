@@ -102,13 +102,6 @@ jupyter notebook forecast_analysis.ipynb
 
 AI tools were used to assist implementation (coding support, debugging support, UI iteration, and documentation drafting). Final logic validation, integration decisions, and analysis framing were reviewed and controlled manually.
 
-## Validation Notes
-
-- Backend logic validation script:
-	- `backend/phase3_validate.py`
-- Validation report:
-	- `backend/PHASE3_VALIDATION.md`
-
 ## Additional Submission Aids In This Repo
 
 - Deployment guidance: `DEPLOYMENT_GUIDE.md`
